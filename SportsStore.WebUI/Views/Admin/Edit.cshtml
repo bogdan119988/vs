@@ -1,0 +1,33 @@
+﻿@model SportsStore.Domain.Entities.Product
+
+@{
+	ViewBag.Title = "Admin: Добавить " + @Model.Name;
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Редактировать @Model.Name</h2>
+@using (Html.BeginForm("Edit", "Admin",
+	FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+	@Html.EditorForModel()
+	<div class="editor-label">Изображение</div>
+	<div class="editor-field">
+		@if (Model.ImageData == null)
+		{
+			@:None
+		}
+		else
+		{
+			<img width="150" height="150" src="@Url.Action("GetImage", "Product", new {
+				Model.ProductID})" />
+		}
+		<div>
+			Загрузить новое изображение
+			<input type="file" name="Image" />
+		</div>
+	</div>
+	<input type="submit" value="Сохранить" />
+	@Html.ActionLink("Отменить и вернуться в список", "Index")
+}
+
+<!--Html.EditorForModel();-->

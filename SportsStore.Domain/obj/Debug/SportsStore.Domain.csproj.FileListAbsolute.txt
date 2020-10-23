@@ -1,0 +1,79 @@
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojAssemblyReference.cache
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Http.dll
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Http.xml
+C:\Users\007MatvychukBr\source\repos\SportsStore\SportsStore.Domain\bin\Debug\ru\Microsoft.Web.Infrastructure.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Net.Http.Formatting.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Http.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Net.Http.Formatting.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Http.xml
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\ru\Microsoft.Web.Infrastructure.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojAssemblyReference.cache
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+E:\Visual Studio\мои проекты\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

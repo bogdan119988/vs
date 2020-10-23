@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SportsStore.Domain.Entities.Product>
+@using Kendo.Mvc
+@{
+    ViewBag.Title = "Admin: Все товары";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Все товары</h1>
+
+<table class="Grid">
+    <tr>
+        <th>ID</th>
+        <th>Название</th>
+        <th class="NumericCol">Цена</th>
+        <th>Действия</th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@Html.ActionLink(item.Name, "Edit", new { item.ProductID })</td>
+            <td class="NumericCol">@item.Price.ToString("c")</td>
+            <td>
+                @using (Html.BeginForm("Delete", "Admin"))
+                {
+                    @Html.Hidden("ProductID", item.ProductID)
+                    <input type="submit" value="Удалить" />
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+<script>
+
+    $(document).ready(function () {
+        $('#adm').kendoGrid();
+    });
+
+</script>
+
+<p>@Html.ActionLink("Добавить товар", "Create")</p>

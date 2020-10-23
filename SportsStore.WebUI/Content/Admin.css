@@ -1,0 +1,85 @@
+﻿body, td {
+	font-family: 'Segoe UI', Verdana;
+}
+
+h1{
+	padding: .5em;
+	padding-top: 0;
+	font-weight: bold;
+	font-size: 1.5em;
+	border-bottom: 2px solid gray;
+}
+
+div#content{
+	padding: .9em;
+}
+
+table.Grid td, table.Grid th{
+	border-bottom: 1px dotted gray;
+	text-align: left;
+}
+
+table.Grid{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table.Grid th.NumericCol, table.Grid td.NumericCol{
+	text-align: right;
+	padding-right: 1em;
+}
+
+form{
+	margin-bottom: 0px;
+}
+
+div.Message{
+	background: gray;
+	color: white;
+	padding: .2em;
+	margin-top: .25em;
+}
+
+.field_validation-error{
+	color: red;
+	display: block;
+}
+
+.field_validation-valid {
+	display: none;
+}
+
+.input-validation-errors{
+	border: 1px solid red;
+	background-color: #ffeeee;
+}
+
+.validation-summary-errors{
+	font-weight: bold;
+	color: red;
+}
+
+.validation-summary-valid{
+	display: none;
+}
+
+.editor-field{
+	margin-bottom: .8em;
+}
+
+.editor-label{
+	font-weight: bold;
+}
+
+.editor-label:after{
+	content:":";
+}
+
+.text-box{
+	width: 25em;
+}
+
+.multi-line{
+	height: 5em;
+	font-family: Segoe UI, Verdana;
+}

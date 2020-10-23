@@ -1,0 +1,22 @@
+﻿@model SportsStore.Domain.Entities.Product
+
+<div class="item">
+	@if (Model.ImageData != null) {
+		<div style="float:left; margin-right: 20px">
+			<img width="75" height="75" src="@Url.Action("GetImage", "Product", new { Model.ProductID})"/>
+		</div>
+	}
+
+	<h3>@Model.Name</h3>
+	@Model.Description
+    <div class="item">
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            @Html.HiddenFor(x => x.ProductID)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            @Html.Kendo().Button().HtmlAttributes(new { type = "submit", @class="k-button"}).Name("add").Content("+ В корзину");
+            @*<input type="submit" value="+ В корзину" />*@
+        }
+    </div>
+	<h4>@Model.Price.ToString("c")</h4>
+</div>

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Site.css" type="text/css" rel="stylesheet" />
+    <link href="~/Content/kendo/kendo.common.min.css" rel="stylesheet" />
+    <link href="~/Content/kendo/kendo.uniform.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/kendo/kendo.all.min.js"></script>
+    <script src="~/Scripts/kendo/kendo.aspnetmvc.min.js"></script>
+</head>
+<body>
+    <div id="header">
+        @{ Html.RenderAction("Summary", "Cart");}
+        <div class="title">SPORTS STORE</div>
+    </div>
+
+    <div id="categories">
+        @{ Html.RenderAction("Menu", "Nav");}
+    </div>
+
+    <div id="content">
+            @RenderBody()
+        </div>
+
+    @*<div id="grid" style="padding: .9em">
+        @RenderBody()
+    </div>*@
+
+    <script>
+
+        $(document).ready(function () {
+            $('#content').kendoGrid({
+                pageable: false
+                , sortable: false
+                , filterable: false
+                , selectable: false
+            });;
+        });
+
+    </script>
+</body>
+</html>

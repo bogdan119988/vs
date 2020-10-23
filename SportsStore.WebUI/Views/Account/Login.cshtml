@@ -1,0 +1,17 @@
+﻿@model SportsStore.WebUI.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Admin: авторизоация";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Авторизация</h2>
+<p>Пожалуйста, войдите, чтобы получить доступ к административной области:</p>
+
+@using (Html.BeginForm())
+{
+	@Html.ValidationSummary(true)
+	@Html.EditorForModel()
+	<p><input type="submit" value="Войти" /></p>
+}
+

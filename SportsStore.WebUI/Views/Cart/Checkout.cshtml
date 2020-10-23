@@ -1,0 +1,35 @@
+﻿@model SportsStore.Domain.Entities.ShippingDetails
+
+@{
+	ViewBag.Title = "SportStore: Оформление заказа";
+}
+
+<h2>Оформление заказа</h2>
+Пожалуйста, введите свои данные, и мы отправим ваш заказ прямо сейчас!
+
+@using (Html.BeginForm())
+{
+	@Html.ValidationSummary()
+	<h3>Отправить к</h3>
+	<div>Имя: @Html.EditorFor(x => x.Name)</div>
+	<h3>Адресс</h3>
+	<div>Line1: @Html.EditorFor(x => x.Line1)</div>
+	<div>Line2: @Html.EditorFor(x => x.Line2)</div>
+	<div>Line3: @Html.EditorFor(x => x.Line3)</div>
+
+	<div>Страна: @Html.EditorFor(x => x.Country)</div>
+	<div>Город: @Html.EditorFor(x => x.City)</div>
+	<div>Область или республика: @Html.EditorFor(x => x.State)</div>
+	<div>Почтовый индекс: @Html.EditorFor(x => x.Zip)</div>
+	<h3>Опции</h3>
+	<label>
+		@Html.EditorFor(x => x.GiftWrap)
+		Подарочная упаковка
+	</label>
+
+	<p align="center">
+		<input class="actionButtons" type="submit" value="Подтвердить"/>
+	</p>
+}
+
+
